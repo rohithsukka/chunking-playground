@@ -1,0 +1,10 @@
+spacy
+tiktoken
+keybert
+sentence-transformers
+pandas
+bertopic
+beautifulsoup4
+scikit-learn
+numpy
+torchvision
