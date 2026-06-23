@@ -2,6 +2,12 @@
 
 Welcome to the Chunking Playground, an interactive utility and library for testing, visualizing, and comparing different text chunking techniques. In natural language processing (NLP) and Retrieval-Augmented Generation (RAG) pipelines, dividing text into optimal segments (chunks) is a critical preprocessing step. This project provides a collection of rule-based and AI-powered chunking strategies, paired with a web application to compare their behaviors.
 
+<img width="1524" height="665" alt="image" src="https://github.com/user-attachments/assets/5454ff76-6735-4cbe-8609-f58290290829" />
+
+## Try Demo here
+
+### (https://chunking-playground-a6wro26ovukk2ah9bg8ctg.streamlit.app/)
+
 ## Project Overview
 
 The project consists of:
