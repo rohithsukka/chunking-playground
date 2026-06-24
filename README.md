@@ -4,7 +4,7 @@ Welcome to the Chunking Playground, an interactive utility and library for testi
 
 <img width="1524" height="665" alt="image" src="https://github.com/user-attachments/assets/5454ff76-6735-4cbe-8609-f58290290829" />
 
-## Try Demo here
+## Try it here
 
 ### (https://chunking-playground-a6wro26ovukk2ah9bg8ctg.streamlit.app/)
 
